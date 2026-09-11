@@ -1,4 +1,4 @@
-# Prompts & Templates (kept local)
+# Prompts & templates kept local
 PROMPT.md
 profile-README-template.md
 AVIVASHISHTA29-main/
@@ -11,7 +11,17 @@ avi-ascii-static.svg
 info-card.svg
 source-prepped.png
 
+# Original source photo - NEVER upload to GitHub
+source-image.jpeg
+source-photo.*
+
 # Python artifacts
 __pycache__/
 *.py[cod]
+
+# Virtual environment
+.venv/
+
+# Environment/secrets
 .env
+.env.*
